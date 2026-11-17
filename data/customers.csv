@@ -1,0 +1,12 @@
+
+customer_id,customer_name,email,membership_tier,join_date,city
+C001,Aarav Sharma,aarav@gmail.com,Gold,2025-01-10,Pune
+C002,Priya Patil,priya@gmail.com,Silver,2025-02-15,Mumbai
+C003,Rohan Deshmukh,rohan@gmail.com,Platinum,2025-03-20,Pune
+C004,Ananya Kulkarni,ananya@gmail.com,Gold,2025-04-05,Nashik
+C005,Vivaan Joshi,vivaan@gmail.com,Silver,2025-05-12,Mumbai
+C006,Meera Shah,meera@gmail.com,Gold,2025-06-18,Pune
+C007,Arjun More,arjun@gmail.com,Platinum,2025-07-22,Nagpur
+C008,Sneha Rao,sneha@gmail.com,Silver,2025-08-30,Pune
+C009,Kabir Khan,kabir@gmail.com,Gold,2025-09-14,Mumbai
+C010,Isha Gupta,isha@gmail.com,Silver,2025-10-01,Nashik

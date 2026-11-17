@@ -1,0 +1,11 @@
+customer_id,customer_name,membership_tier,expected_points,recorded_points,redeemed_points,expired_points,expected_balance,recorded_balance,balance_difference,reconciliation_status
+C001,Aarav Sharma,Gold,43,43,15,3,25,25,0,Matched
+C002,Priya Patil,Silver,37,37,5,2,30,30,0,Matched
+C003,Rohan Deshmukh,Platinum,77,77,30,5,42,42,0,Matched
+C004,Ananya Kulkarni,Gold,32,30,10,4,18,16,2,Mismatch
+C005,Vivaan Joshi,Silver,18,18,8,3,7,7,0,Matched
+C006,Meera Shah,Gold,54,54,15,6,33,33,0,Matched
+C007,Arjun More,Platinum,60,60,25,8,27,27,0,Matched
+C008,Sneha Rao,Silver,9,8,5,1,3,2,1,Mismatch
+C009,Kabir Khan,Gold,80,80,15,4,61,61,0,Matched
+C010,Isha Gupta,Silver,21,21,10,2,9,9,0,Matched

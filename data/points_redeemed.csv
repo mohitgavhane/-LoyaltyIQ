@@ -1,0 +1,14 @@
+
+redemption_id,customer_id,redemption_date,reward_description,points_redeemed,status
+R001,C001,2025-10-05,Shopping Voucher,10,Completed
+R002,C002,2025-10-06,Cashback Reward,5,Completed
+R003,C003,2025-10-07,Gift Voucher,20,Completed
+R004,C004,2025-10-08,Shopping Voucher,10,Completed
+R005,C005,2025-10-09,Cashback Reward,8,Completed
+R006,C006,2025-10-10,Gift Voucher,15,Completed
+R007,C007,2025-10-11,Shopping Voucher,25,Completed
+R008,C008,2025-10-12,Cashback Reward,5,Completed
+R009,C009,2025-10-13,Gift Voucher,15,Completed
+R010,C010,2025-10-14,Shopping Voucher,10,Completed
+R011,C001,2025-10-15,Cashback Reward,5,Completed
+R012,C003,2025-10-16,Shopping Voucher,10,Completed

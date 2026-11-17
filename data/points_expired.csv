@@ -1,0 +1,12 @@
+
+expiry_id,customer_id,expiry_date,points_expired,reason
+EX001,C001,2025-10-10,3,Validity Expired
+EX002,C002,2025-10-11,2,Validity Expired
+EX003,C003,2025-10-12,5,Validity Expired
+EX004,C004,2025-10-13,4,Validity Expired
+EX005,C005,2025-10-14,3,Validity Expired
+EX006,C006,2025-10-15,6,Validity Expired
+EX007,C007,2025-10-16,8,Validity Expired
+EX008,C008,2025-10-17,1,Validity Expired
+EX009,C009,2025-10-18,4,Validity Expired
+EX010,C010,2025-10-19,2,Validity Expired
